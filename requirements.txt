@@ -10,4 +10,5 @@ pillow
 beautifulsoup4
 requests
 wikipedia
+firebase-admin
 
