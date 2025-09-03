@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+scipy
+pillow
+beautifulsoup4
+requests
+wikipedia
+
